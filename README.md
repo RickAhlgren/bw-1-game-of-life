@@ -26,7 +26,7 @@ The game continues until 1 of 3 things happens:
 Birth: Each dead cell adjacent to exactly 3 live neighbors will become live in the next generation.
 Death by Isolation: Each live cell with one or fewer live neighbors will die in the next generation.
 Death by Overcrowding: Each live cell with 4 or more live neighbors will die in the next generation.
-Survival:  Each live cell with 2 or 3 live neighbors will remain alive for the the next generation.
+Survival: Each live cell with 2 or 3 live neighbors will remain alive for the the next generation.
 
 ## Why these rules?
 
